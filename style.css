@@ -1,5 +1,14 @@
 body {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:darkslategray;
-   background-color: #eff0dd;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(103, 84, 65);
+   background-color: #f8e6e8;
+}
+
+.homepage_box {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fffffe;
+  box-shadow: 10px 10px 0px rgba(152, 144, 144, 0.4);
+  border-radius: 8px;
 }
