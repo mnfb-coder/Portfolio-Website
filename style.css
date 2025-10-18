@@ -1,11 +1,9 @@
-*{
-  border: 1pt solid red;
-}
+
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  color:rgb(103, 84, 65);
-  background-color: #f8e6e8;
+  color:rgb(224, 123, 195);
+  background-color: #f9dff4;
   margin: 0;
 }
 
@@ -55,7 +53,7 @@ div.gallery-item div.desc {
 
 .header a {
   float: left;
-  color:rgb(103, 84, 65);
+  color:rgb(224, 123, 195);
   text-align: center;
   padding: 12px;
   text-decoration: none;
